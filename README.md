@@ -5,4 +5,4 @@ Code to reproduce the 2D RNN part of the paper [Charting and Navigating the Spac
 The file `net_tanh4` contains the trained network parameters for 10000 randomly initialised networks.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KabirDabholkar/space-of-solutions-2D/analysis_2Drnn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KabirDabholkar/space-of-solutions-2D/blob/master/analysis_2Drnn.ipynb)
