@@ -1,3 +1,2 @@
-torch==1.10.1
 torchdiffeq==0.2.2
 
