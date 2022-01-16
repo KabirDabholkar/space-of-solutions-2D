@@ -4,5 +4,10 @@ Code to reproduce the 2D RNN part of the paper [Charting and Navigating the Spac
 
 The file `net_tanh4` contains the trained network params.
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KabirDabholkar/space-of-solutions-2D/blob/master/analysis_2Drnn.ipynb)
+Two options to run the code:
+1. Clone the repository locally. Installation:
+```
+git clone https://github.com/KabirDabholkar/space-of-solutions-2D.git
+pip install -r requirements.txt
+```
+2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KabirDabholkar/space-of-solutions-2D/blob/master/analysis_2Drnn.ipynb)
