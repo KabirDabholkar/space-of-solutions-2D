@@ -1,14 +1,4 @@
 import matplotlib
-matplotlib.rcParams.update({'font.size': 16,
-                            #'font.family':'sans-serif',
-                            #'font.sans-serif':['Arial'],
-                            'font.family': 'STIXGeneral',
-                            'mathtext.fontset': 'stix',
-                            'axes.titleweight':'bold'})
-                            #'text.usetex': True,
-                            #'text.latex.preamble':r"""\usepackage{amsmath}
-                            #                      \usepackage{amssymb}"""})
-
 
 colors = {
     'dark grey':[0.5]*3+[1.0]#'#FF9d9d9d'
