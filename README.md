@@ -8,6 +8,7 @@ Two options to run the code:
 1. Clone the repository locally. Installation:
 ```
 git clone https://github.com/KabirDabholkar/space-of-solutions-2D.git
+cd space-of-solutions-2D
 pip install -r requirements.txt
 ```
 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KabirDabholkar/space-of-solutions-2D/blob/master/analysis_2Drnn.ipynb)
